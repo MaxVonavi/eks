@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Xarrovv';
+    src: url('Xarrovv.eot');
+    src: url('Xarrovv.eot?#iefix') format('embedded-opentype'),
+        url('Xarrovv.woff2') format('woff2'),
+        url('Xarrovv.woff') format('woff'),
+        url('Xarrovv.ttf') format('truetype'),
+        url('Xarrovv.svg#Xarrovv') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
